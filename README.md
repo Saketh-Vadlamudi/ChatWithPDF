@@ -48,6 +48,8 @@ streamlit run app.py
 Ensure your API keys and .env file are set up correctly. If required, adjust the app.py to load your specific configuration (like model settings or database paths).
 
 ## Usage
+```bash
 Upload PDF Files: Use the file uploader to upload your PDF documents.
 Ask Questions: Input your questions in the text input field.
 View Responses: Responses are generated based on the retrieved context and are displayed below the input.
+```
