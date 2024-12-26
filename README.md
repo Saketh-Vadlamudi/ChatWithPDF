@@ -32,8 +32,8 @@ GOOGLE_API_KEY='YOUR_API_KEY_HERE
 ## Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/chat-with-pdf.git
-cd chat-with-pdf
+git clone https://github.com/Saketh-Vadlamudi/ChatWithPDF.git
+cd ChatWithPDF
 ```
 ## Install the required Python packages:
 
