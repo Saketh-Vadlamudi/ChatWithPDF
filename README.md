@@ -1,4 +1,4 @@
-# Chat with PDF using Gemini
+# Chat with PDF using Gemini 
  
 Welcome to the Chat with PDF project! This project allows you to upload PDF files, extract their text, store the text in a vector database (using FAISS), and ask questions using a conversational model (Gemini).
 
